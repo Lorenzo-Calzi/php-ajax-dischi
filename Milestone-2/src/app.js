@@ -1,5 +1,5 @@
 const app = new Vue({
-    /* Options object */
+  
     el: '#app',
     data: {
       musicData: []
