@@ -5,8 +5,19 @@
     font-family: 'Roboto', sans-serif;
 }
 
+/* HEADER */
+header{
+    width: 100%;
+    background-color: rgba(46, 58, 70, 1);
+}
+header i{
+    font-size: 60px;
+    padding: 10px;
+    color: rgba(30, 215, 96, 1);
+}
+/* /HEADER */
 
-
+/* MAIN */
 main{
     width: 100%;
     background-color: rgba(30, 45, 59, 1);
@@ -48,3 +59,4 @@ main{
     width: 180px;
     padding-bottom: 20px;
 }
+/* MAIN */
